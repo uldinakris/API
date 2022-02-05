@@ -1,3 +1,7 @@
+package ru.netology.main;
+
+import ru.netology.main.FormDate;
+
 public class Post {
 
     public String name;
